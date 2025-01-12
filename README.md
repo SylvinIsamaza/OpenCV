@@ -5,7 +5,7 @@ This repository is a comprehensive collection of OpenCV-based functions, tutoria
 ---
 
 ## Assignment
-- [Assignment-001](https://github.com/sylvainreiter/OpenCV-Masterclass/tree/master/Assignment-001)
+- [Assignment-001](https://github.com/SylvinIsamaza/OpenCV/tree/main/Annotation_assignment)
 ## Features
 
 - **Basic Operations**: Image reading, resizing, cropping, and color transformations, drawing and Annotation
